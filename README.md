@@ -15,3 +15,8 @@ Dana wants to customize her page by adding specific CSS components to the styles
 Results:
 
 Filter UFO sightings on multiple criteria Using JavaScript and HTML, we created table filters, that allows to filter through date, city, state, country, and shape. Please refer to the imags below :
+
+![](https://github.com/Marwan-Takrouri/UFO_Analysis/blob/main/static/Images/filter%20state%20ca.png)
+![]()
+![]()
+![]()
